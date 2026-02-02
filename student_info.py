@@ -5,13 +5,13 @@ email = "jennifer.jackson3@columbusstate.edu"
 hometown = "Augusta, Ga"
 favoriteHobby = "Cooking"
 
-print("==========================================")
+print("="*40)
 print("       STUDENT INFORMATION CARD")
-print("==========================================")
-print(f"Name: {name}")
-print(f"Major: {major}")
-print(f"Graduation Year: {graduation_year}")
-print(f"Email: {email}")
-print(f"Hometown: {hometown}")
-print(f"Favorite Hobby: {favoriteHobby}")
-print("==========================================")
+print("="*40)
+print(f"Name: {name}\n")
+print(f"Major: {major}\n")
+print(f"Graduation Year: {graduation_year}\n")
+print(f"📧Email: {email}\n")
+print(f"🏠Hometown: {hometown}\n")
+print(f"🍳Favorite Hobby: {favoriteHobby}\n")
+print("="*40)
